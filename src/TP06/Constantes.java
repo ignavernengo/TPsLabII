@@ -1,4 +1,4 @@
-package Principal;
+package TP06;
 
 public class Constantes {
     public static void main(String[] args) {

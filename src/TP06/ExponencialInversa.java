@@ -1,4 +1,4 @@
-package Principal;
+package TP06;
 
 public class ExponencialInversa {
 
