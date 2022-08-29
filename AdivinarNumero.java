@@ -18,6 +18,7 @@ public class AdivinarNumero {
             System.out.println("Ingrese un numero mayor: ");
 
         }
+        
         else {
             System.out.println("Ingrese un numero menor: ");
 
